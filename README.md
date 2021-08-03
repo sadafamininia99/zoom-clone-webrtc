@@ -2,7 +2,6 @@
 A video chat app with text chat functionality built using Node.js,Express.js,WebRTC and Socket.io
 
 Live Link:
-https://tranquil-basin-01150.herokuapp.com/
 
 Local:
 After Cloning
