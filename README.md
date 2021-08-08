@@ -24,6 +24,14 @@ Use the package manager [Npm](https://www.npmjs.com/package/npm****) to install 
   2 - npm start 
 ```
 
-  3 -open on Localhost :3030
-  
-  4 - copy meeting id from address bar and share.
+## Usage
+ open on Localhost :3030
+ 
+ copy meeting id from address bar and share.
+
+
+
+## Contributing
+Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
+
+Please make sure to update tests as appropriate.
