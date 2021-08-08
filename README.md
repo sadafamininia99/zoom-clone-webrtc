@@ -15,6 +15,4 @@ After Cloning
 
 ```bash
 npm install 
-
-```bash
 npm start
